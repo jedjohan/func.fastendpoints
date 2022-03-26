@@ -1,0 +1,17 @@
+### Send Get to localhost
+GET http://localhost:8080/cidapi/product/
+content-type: application/json
+
+{
+    "ProductId": "234234234",
+    "StoreId": 6
+}
+
+### Send Post to localhost
+POST http://localhost:8080/cidapi/product/create
+content-type: application/json
+
+{
+    "ProductId": "234234234",
+    "StoreId": 6
+}
