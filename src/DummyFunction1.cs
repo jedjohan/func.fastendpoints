@@ -1,4 +1,4 @@
-namespace txemail.queuehandler;
+namespace func.fastendpoints;
 
 public static class Dummy
 {
